@@ -9,7 +9,7 @@
 
 ## Cara instalasi
 - Download file source code dalam bentuk ZIP
-- Unzip file tersebut di dalam server web lokal seperti XAMPP, laragon
+- Unzip file tersebut di dalam server web lokal seperti XAMPP, laragon.
   Contoh: C:\laragon\www
 - Copy file .env.example, lalu rename menjadi .env
 - Buat database baru 
@@ -28,8 +28,6 @@
 - Framework Laravel
 - HTML, CSS, PHP, Javascript, SQL
 
-
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
 ## Template
   * Template Name: Lumia
